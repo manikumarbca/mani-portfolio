@@ -33,19 +33,19 @@ const About = () => {
                         <div className="tab-contents" id="education">
                     <div className="towelve-about">
             <h3>Bachelor's</h3>
-            <p>Guru Kashi University Talwandi sabo, bathinda punjab, India</p>  <p>GPA:-74</p>
+            <p>Guru Kashi University Talwandi sabo, bathinda punjab, India</p>  <p>SGPA:- 7.81</p>
            
             </div>
                    
                     <div className="towelve-about">
             <h3>+2</h3>
             <p>Shree Nepal Rastriya higher Secondary Technical School, Piparpati, Pachrauta-1, Bara ,Nepal</p>
-            <p>GPA:-69</p>
+            <p>GPA:- 2.76</p>
          </div>
          <div className="ten-about">
             <h3>10</h3>
             <p>Shree Nepal Rastriya higher Secondary Technical School, Piparpati, Pachrauta-1, Bara ,Nepal</p>
-            <p>GPA:-67</p>
+            <p>GPA:- 2.68</p>
          </div>
       </div>
       </div>
