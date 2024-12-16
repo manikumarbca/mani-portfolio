@@ -16,7 +16,7 @@ const Experience = () => {
               <img src={prabha} alt="" className="exp-img" />
             </div>
             <div className="right">
-              <h2> Computer Oprator</h2>
+              <h2> Computer Operator</h2>
               <h4 className="prabha-info">
                 <span style={{ color: "#26ff00" }}>
                   {"Jun, 2021"} {"Jan, 2023"}{" "}
